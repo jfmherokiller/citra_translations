@@ -4,7 +4,7 @@ addons:
   apt:
     packages:
     - cmake
-    - qttools5-dev-tools
+    - qttools5-dev
 compiler:
     - clang
 before_script:
