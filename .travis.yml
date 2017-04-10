@@ -2,24 +2,28 @@ language: cpp
 sudo: required
 dist: xenial
 cache: apt
-
 compiler:
-    - gcc
+- gcc
 before_install:
-  - sudo apt-get -qq update
-  - sudo apt-get install -y qttools5-dev
-  - sudo apt-get install -y qttools5-dev-tools
+- sudo apt-get -qq update
+- sudo apt-get install -y qttools5-dev
+- sudo apt-get install -y qttools5-dev-tools
 before_script:
-    - mkdir build
-    - cd build
-    - cmake ..
-
+- mkdir build
+- cd build
+- cmake ..
 script: make
-
 notifications:
   email: false
-
 after_success:
-    - echo "now packaging"
-    - zip -j translations.zip translations/*.qm
-    - echo "done"
+- echo "now packaging"
+- zip -j translations.zip translations/*.qm
+- echo "done"
+deploy:
+  provider: releases
+  api_key:
+    secure: eT4YdnwdcbRYrRpPfy0VIMjyhToINvgj3dj2x3LZafbjB5FJ+OclEJw6hTQSbstVCZtGZk/miHqlmQ+3XLIzvgGffRoDFuk5yhWl+h0CR74hIBNzZxQnHHdgjP63QDwJaaz6YZGXScTncpH2/djmUTF9eNxKW0BNXXwGc15xrjCii2KNHhhWnOWhdgcvtdv3RoQc8B+TE0b0LOXClJPJk74gBKsoBqwQ/XS+36fU9uDi0z0uO0e1+/b1U66sbX1JngFWsk2JzdJe6UvRqSjnG3J+MQZaQCuqaavgFdalMOHixbRBEWHvq3gYyjNx7YTE80NCi5L4jJH/4Pq3QVKq25U6mBbGVnKoQShXyLgjpgAE7pGS48mdcLJeATTDO5mNEdewL3sYqAYYdhBSNQ/cg7z0j5ZZZQfpOYkMVF457UE+aC9z+2UhfwY6axECbxmp+EiWJOgWUKeLhOGiF1ZEbzPqglH6hmTG5weSQigKGRrVr5omIa/cD7rrs+t0nG0YTety7Bh6ZFrRf+lid2H+Jqq3RxHbkn9nXaYpHiLjMuw8j6Pq0n+gpCyGoLqwCZVzH51JRvW8f6I839MtqDTmEvgf4EK4hH+37xTLZVF7AX5x4nSgn2Ky3UWB72sQokPdVhMI577CDJKqwOLNvOX4TfF/MLfIUxMBpsOp1DcFst8=
+  file: translations.zip
+  on:
+    repo: jfmherokiller/citra_translations
+  skip_cleanup: true
