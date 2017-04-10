@@ -12,5 +12,5 @@ set(LANGS
         )
 qt5_create_translation(TRANSLATION_MESSAGES ${CITRA_SRC} ${CITRA_HDR} ${CITRA_UI} ${LANGS})
 qt5_add_translation(TRANSLATION_QM ${LANGS})
-add_custom_target(translations_update ALL DEPENDS ${TRANSLATION_MESSAGES})
+add_custom_target(translations_update ALL DEPENDS citra ${TRANSLATION_MESSAGES})
 add_custom_target(translations DEPENDS translations_update ${TRANSLATION_QM})
