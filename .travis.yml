@@ -18,3 +18,8 @@ script: make
 
 notifications:
   email: false
+
+after_success:
+    - echo "now packaging"
+    - zip -j translations.zip translations/*.qm
+    - echo "done"
