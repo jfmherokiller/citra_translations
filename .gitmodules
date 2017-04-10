@@ -1,0 +1,3 @@
+[submodule "citra"]
+	path = citra
+	url = https://github.com/citra-emu/citra
