@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.7)
+cmake_minimum_required(VERSION 3.2)
 project(citra_translations)
 find_package(Git REQUIRED)
 find_package(Qt5 REQUIRED COMPONENTS Core LinguistTools)
