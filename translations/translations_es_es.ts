@@ -6,7 +6,7 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/registers.ui" line="14"/>
         <source>ARM Registers</source>
-        <translation>ARM Registros</translation>
+        <translation>Registros de ARM</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/registers.ui" line="25"/>
@@ -24,42 +24,42 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_breakpoints.cpp" line="34"/>
         <source>Pica command loaded</source>
-        <translation>Pica cargado de comandos</translation>
+        <translation>Comando Pica cargado</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_breakpoints.cpp" line="35"/>
         <source>Pica command processed</source>
-        <translation>Pica procesa comandos</translation>
+        <translation>Comando Pica procesado</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_breakpoints.cpp" line="36"/>
         <source>Incoming primitive batch</source>
-        <translation>lotes primitiva entrante</translation>
+        <translation>Primitive batch entrante</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_breakpoints.cpp" line="37"/>
         <source>Finished primitive batch</source>
-        <translation>Terminado lote primitiva</translation>
+        <translation>Primitive batch terminado</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_breakpoints.cpp" line="38"/>
         <source>Vertex shader invocation</source>
-        <translation>Vertex shader invocación</translation>
+        <translation>Invocación de Vertex shader</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_breakpoints.cpp" line="40"/>
         <source>Incoming display transfer</source>
-        <translation>transferencia de visualización de entrada</translation>
+        <translation>Transferencia de visualización entrante</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_breakpoints.cpp" line="41"/>
         <source>GSP command processed</source>
-        <translation>GSP procesa comandos</translation>
+        <translation>Comando GSP procesado</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_breakpoints.cpp" line="42"/>
         <source>Buffers swapped</source>
-        <translation>Los tampones intercambian</translation>
+        <translation>Los Búfers se han intercambiado</translation>
     </message>
 </context>
 <context>
@@ -67,7 +67,7 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/callstack.ui" line="14"/>
         <source>Call Stack</source>
-        <translation>Pila de llamadas</translation>
+        <translation>Pila de Llamadas</translation>
     </message>
 </context>
 <context>
@@ -80,22 +80,22 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_audio.ui" line="18"/>
         <source>Output Engine:</source>
-        <translation>Potencia del motor:</translation>
+        <translation>Motor de Audio:</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_audio.ui" line="31"/>
         <source>Enable audio stretching</source>
-        <translation>Habilitar audio de estiramiento</translation>
+        <translation>Habilitar estiramiento del audio</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_audio.ui" line="34"/>
         <source>This post-processing effect adjusts audio speed to match emulation speed and helps prevent audio stutter. This however increases audio latency.</source>
-        <translation>Este efecto de post-procesamiento ajusta la velocidad del sonido para que coincida con la velocidad de emulación y ayuda a prevenir el tartamudeo de audio. Sin embargo, esto aumenta la latencia de audio.</translation>
+        <translation>Este efecto de post-procesamiento ajusta la velocidad del audio para que coincida con la velocidad de emulación y ayuda a prevenir el entrecortado del audio. Sin embargo, esto aumenta la latencia de audio.</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_audio.ui" line="43"/>
         <source>Audio Device:</source>
-        <translation>Dispositivo de audio:</translation>
+        <translation>Dispositivo de Audio:</translation>
     </message>
 </context>
 <context>
@@ -113,7 +113,7 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_debug.ui" line="30"/>
         <source>Enable GDB Stub</source>
-        <translation>Habilitar el GDB del trozo</translation>
+        <translation>Habilitar GDB Stub</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_debug.ui" line="50"/>
@@ -126,12 +126,12 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure.ui" line="14"/>
         <source>Citra Configuration</source>
-        <translation>Configuración Citra</translation>
+        <translation>Configuración de Citra</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure.ui" line="24"/>
         <source>General</source>
-        <translation>Generales</translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure.ui" line="29"/>
@@ -151,7 +151,7 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure.ui" line="44"/>
         <source>Audio</source>
-        <translation>Puerto de Audio</translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure.ui" line="49"/>
@@ -169,12 +169,12 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_general.ui" line="22"/>
         <source>General</source>
-        <translation>Generales</translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_general.ui" line="30"/>
         <source>Search sub-directories for games</source>
-        <translation>Buscar subdirectorios para juegos</translation>
+        <translation>Buscar en sub directorios por juegos</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_general.ui" line="37"/>
@@ -227,12 +227,12 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_graphics.ui" line="28"/>
         <source>Enable hardware renderer</source>
-        <translation>Habilitar el renderizador de hardware</translation>
+        <translation>Habilitar renderización por hardware</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_graphics.ui" line="35"/>
         <source>Enable shader JIT</source>
-        <translation>Habilitar JIT shader</translation>
+        <translation>Habilitar Shader JIT</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_graphics.ui" line="42"/>
@@ -247,7 +247,7 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_graphics.ui" line="58"/>
         <source>Internal Resolution:</source>
-        <translation>Resolución interna:</translation>
+        <translation>Resolución Interna:</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_graphics.ui" line="131"/>
@@ -257,12 +257,12 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_graphics.ui" line="141"/>
         <source>Screen Layout:</source>
-        <translation>Diseño de pantalla:</translation>
+        <translation>Diseño de Pantalla:</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_graphics.ui" line="169"/>
         <source>Swap Screens</source>
-        <translation>Pantallas de swap</translation>
+        <translation>Intercambiar Pantallas</translation>
     </message>
 </context>
 <context>
@@ -270,12 +270,12 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="14"/>
         <source>ConfigureInput</source>
-        <translation>Configurar entrada</translation>
+        <translation>Configurar Entrada</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="22"/>
         <source>Face Buttons</source>
-        <translation>cara Botones</translation>
+        <translation>Botones de Control</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="36"/>
@@ -300,21 +300,21 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="109"/>
         <source>Directional Pad</source>
-        <translation>pad direccional</translation>
+        <translation>Pad Direccional</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="123"/>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="333"/>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="420"/>
         <source>Up:</source>
-        <translation>Up:</translation>
+        <translation>Arriba:</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="141"/>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="351"/>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="438"/>
         <source>Down:</source>
-        <translation>Down:</translation>
+        <translation>Abajo:</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="159"/>
@@ -333,7 +333,7 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="196"/>
         <source>Shoulder Buttons</source>
-        <translation>Botones de hombro</translation>
+        <translation>Gatillos</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="210"/>
@@ -358,37 +358,37 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="283"/>
         <source>Circle Pad</source>
-        <translation>Circle Pad</translation>
+        <translation>Botón Deslizante</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="370"/>
         <source>C-Stick</source>
-        <translation>C-Stick</translation>
+        <translation>Palanca C</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="457"/>
         <source>Misc.</source>
-        <translation>Miscelánea.</translation>
+        <translation>Misceláneo.</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="471"/>
         <source>Start:</source>
-        <translation>Inicio:</translation>
+        <translation>Start:</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="489"/>
         <source>Select:</source>
-        <translation>Seleccionar:</translation>
+        <translation>Select:</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="507"/>
         <source>Home:</source>
-        <translation>En la Casa:</translation>
+        <translation>Home:</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="525"/>
         <source>Circle Mod:</source>
-        <translation>Círculo Mod:</translation>
+        <translation>Mod. del Botón Deslizante:</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.ui" line="582"/>
@@ -421,7 +421,7 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_system.ui" line="28"/>
         <source>Username</source>
-        <translation>Nombre de usuario</translation>
+        <translation>Nombre de Usuario</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_system.ui" line="48"/>
@@ -456,7 +456,7 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_system.ui" line="83"/>
         <source>June</source>
-        <translation>Jun</translation>
+        <translation>Junio</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_system.ui" line="88"/>
@@ -496,7 +496,7 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_system.ui" line="133"/>
         <source>Note: this can be overridden when region setting is auto-select</source>
-        <translation>Nota: esto puede ser anulado cuando la configuración de región es de selección automática</translation>
+        <translation>Nota: esto puede ser anulado cuando la configuración de la región estaconfigurada en Auto seleccionar</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_system.ui" line="137"/>
@@ -506,7 +506,7 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_system.ui" line="142"/>
         <source>English</source>
-        <translation>Inglés</translation>
+        <translation>Inglés (English)</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_system.ui" line="147"/>
@@ -556,12 +556,12 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_system.ui" line="192"/>
         <source>Traditional Chinese (正體中文)</source>
-        <translation>Tradicional China (正 體 中文)</translation>
+        <translation>Chino Tradicional (正 體 中文)</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_system.ui" line="200"/>
         <source>Sound output mode</source>
-        <translation>modo de salida de sonido</translation>
+        <translation>Modo de la configuración de sonido</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_system.ui" line="208"/>
@@ -576,17 +576,17 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_system.ui" line="218"/>
         <source>Surround</source>
-        <translation>Rodear</translation>
+        <translation>Envolvente</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_system.ui" line="229"/>
         <source>System settings are available only when game is not running.</source>
-        <translation>la configuración del sistema sólo están disponibles cuando el juego no se está ejecutando.</translation>
+        <translation>La configuración del sistema sólo está disponible cuando el juego no se está ejecutando.</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_system.cpp" line="40"/>
         <source>Failed to load system settings data.</source>
-        <translation>No se pudo cargar datos de configuración del sistema.</translation>
+        <translation>No se pudieron cargar los datos de la configuración del sistema.</translation>
     </message>
 </context>
 <context>
@@ -619,7 +619,7 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/disassembler.ui" line="51"/>
         <source>Set Breakpoint</source>
-        <translation>Definir punto de corte</translation>
+        <translation>Definir punto de interrupción</translation>
     </message>
 </context>
 <context>
@@ -627,31 +627,31 @@
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="101"/>
         <source>Current emulation speed. Values higher or lower than 100% indicate emulation is running faster or slower than a 3DS.</source>
-        <translation>velocidad de emulación actual. Los valores más altos o más bajos que el 100% indican la emulación está funcionando más rápido o más lento que un 3DS.</translation>
+        <translation>Velocidad de la emulación actual. Valores más altos o más bajos que el 100% indican que la emulación está funcionando más rápido o más lento que una 3DS.</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="104"/>
         <source>How many frames per second the game is currently displaying. This will vary from game to game and scene to scene.</source>
-        <translation>El número de fotogramas por segundo juego esté visible. Esto variará de un juego a otro y de una escena a otra.</translation>
+        <translation>El número de fotogramas por segundo que el juego está mostrando. Esto variará de un juego a otro y de una escena a otra.</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="108"/>
         <source>Time taken to emulate a 3DS frame, not counting framelimiting or v-sync. For full-speed emulation this should be at most 16.67 ms.</source>
-        <translation>Tiempo necesario para emular un marco 3DS, sin contar framelimiting o v-sync. Para la emulación de velocidad completa esto debe ser como máximo de 16.67 ms.</translation>
+        <translation>El tiempo necesario para emular un fotograma de 3DS, sin contar framelimiting o V-sync. Para una emulación a una velocidad completa este debe ser como máximo16.67 ms.</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="317"/>
         <source>Error while starting Citra!</source>
-        <translation>Error al iniciar Citra!</translation>
+        <translation>¡Error al iniciar Citra!</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="318"/>
         <source>Failed to initialize the video core!
 
 Please ensure that your GPU supports OpenGL 3.3 and that you have the latest graphics driver.</source>
-        <translation>No se pudo inicializar el núcleo de vídeo! 
+        <translation>¡No se pudo inicializar el núcleo de vídeo! 
  
- Favor de asegurarse de que su GPU compatible con OpenGL 3.3 y que usted tiene la última versión del controlador de gráficos.</translation>
+ Por favor asegurese de que su GPU es compatible con OpenGL 3.3 y que usted tiene la última versión del controlador de gráficos.</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="333"/>
@@ -660,13 +660,13 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="359"/>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="364"/>
         <source>Error while loading ROM!</source>
-        <translation>Error durante la carga ROM!</translation>
+        <translation>¡Error al cargar el ROM!</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="334"/>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="360"/>
         <source>The ROM format is not supported.</source>
-        <translation>El formato ROM no es compatible.</translation>
+        <translation>El formato del ROM no es compatible.</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="340"/>
@@ -676,12 +676,12 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="349"/>
         <source>The game that you are trying to load must be decrypted before being used with Citra.&lt;br/&gt;&lt;br/&gt;For more information on dumping and decrypting games, please see: &lt;a href=&apos;https://citra-emu.org/wiki/Dumping-Game-Cartridges&apos;&gt;https://citra-emu.org/wiki/Dumping-Game-Cartridges&lt;/a&gt;</source>
-        <translation>El juego que está intentando cargar debe ser descifrado antes de ser utilizados con Citra.&lt;br/&gt;&lt;br/&gt; Para obtener más información sobre el dumping y el descifrado de los juegos, por favor ver: &lt;a href=&apos;https://citra-emu.org/wiki/Dumping-Game-Cartridges&apos;&gt;https://citra-emu.org/wiki/Dumping-Game-Cartridges&lt;/a&gt;</translation>
+        <translation>El juego que está intentando cargar debe ser descifrado antes de poder ser utilizado con Citra.&lt;br/&gt;&lt;br/&gt; Para obtener más información sobre como volcar y descifrar juegos, por favor revisé: &lt;a href=&apos;https://citra-emu.org/wiki/Dumping-Game-Cartridges&apos;&gt;https://citra-emu.org/wiki/Dumping-Game-Cartridges&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="364"/>
         <source>Unknown error!</source>
-        <translation>Error desconocido!</translation>
+        <translation>¡Error desconocido!</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="441"/>
@@ -691,42 +691,42 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="502"/>
         <source>Error Opening Save Folder</source>
-        <translation>Apertura de error Save Folder</translation>
+        <translation>Error Abriendo la Carpeta de Guardado</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="502"/>
         <source>Folder does not exist!</source>
-        <translation>La carpeta no existe!</translation>
+        <translation>¡La carpeta no existe!</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="515"/>
         <source>3DS Executable</source>
-        <translation>3DS ejecutable</translation>
+        <translation>Archivo Ejectuable de 3DS</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="516"/>
         <source>All Files (*.*)</source>
-        <translation>Todos los archivos (*.*)</translation>
+        <translation>Todos los Archivos (*.*)</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="518"/>
         <source>Load File</source>
-        <translation>Carga Archivo</translation>
+        <translation>Cargar Archivo</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="529"/>
         <source>Load Symbol Map</source>
-        <translation>Símbolo cargar Mapa</translation>
+        <translation>Cargar Mapa de Caracteres</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="529"/>
         <source>Symbol Map (*.*)</source>
-        <translation>Símbolo de mapa (*.*)</translation>
+        <translation>Mapa de Caracteres (*.*)</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="538"/>
         <source>Select Directory</source>
-        <translation>Seleccionar directorio</translation>
+        <translation>Seleccionar Directorio</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="555"/>
@@ -756,7 +756,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="641"/>
         <source>Frame: %1 ms</source>
-        <translation>Frame:%1 ms</translation>
+        <translation>Fotograma:%1 ms</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="653"/>
@@ -767,12 +767,12 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="653"/>
         <source>Are you sure you want to close Citra?</source>
-        <translation>¿Seguro que desea cerrar Citra?</translation>
+        <translation>¿Estás seguro de que deseas cerrar Citra?</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.cpp" line="717"/>
         <source>Are you sure you want to stop the emulation? Any unsaved progress will be lost.</source>
-        <translation>¿Seguro que desea detener la emulación? se perderá ningún progreso no guardado.</translation>
+        <translation>¿Estás seguro de que deseas detener la emulación? Se perderá cualquier progreso no guardado.</translation>
     </message>
 </context>
 <context>
@@ -780,7 +780,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_cmdlists.cpp" line="95"/>
         <source>Command Name</source>
-        <translation>Nombre de la orden</translation>
+        <translation>Nombre del Comando</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_cmdlists.cpp" line="97"/>
@@ -795,7 +795,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_cmdlists.cpp" line="101"/>
         <source>New Value</source>
-        <translation>Nuevo valor</translation>
+        <translation>Nuevo Valor</translation>
     </message>
 </context>
 <context>
@@ -803,23 +803,23 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_cmdlists.cpp" line="183"/>
         <source>Pica Command List</source>
-        <translation>Lista de comandos Pica</translation>
+        <translation>Lista de Comandos Pica</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_cmdlists.cpp" line="207"/>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_cmdlists.cpp" line="238"/>
         <source>Start Tracing</source>
-        <translation>Comenzar el seguimiento</translation>
+        <translation>Comenzar Seguimiento</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_cmdlists.cpp" line="208"/>
         <source>Copy All</source>
-        <translation>Copiar todo</translation>
+        <translation>Copiar Todo</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_cmdlists.cpp" line="234"/>
         <source>Finish Tracing</source>
-        <translation>acabado de Búsquedas</translation>
+        <translation>Terminar Seguimiento</translation>
     </message>
 </context>
 <context>
@@ -827,7 +827,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics.cpp" line="66"/>
         <source>Graphics Debugger</source>
-        <translation>gráficos depurador</translation>
+        <translation>Depurador de Gráficos</translation>
     </message>
 </context>
 <context>
@@ -835,7 +835,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/game_list.cpp" line="89"/>
         <source>Open Save Data Location</source>
-        <translation>Abrir dirección Guardar datos</translation>
+        <translation>Abrir la Dirección de los Archivos de Guardado</translation>
     </message>
 </context>
 <context>
@@ -843,23 +843,23 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_breakpoints.cpp" line="132"/>
         <source>Pica Breakpoints</source>
-        <translation>Pica puntos de interrupción</translation>
+        <translation>Puntos de interrupción Pica</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_breakpoints.cpp" line="136"/>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_breakpoints.cpp" line="194"/>
         <source>Emulation running</source>
-        <translation>Emulación de ejecución</translation>
+        <translation>Emulación en ejecución</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_breakpoints.cpp" line="137"/>
         <source>Resume</source>
-        <translation>Resumen</translation>
+        <translation>Resumir</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_breakpoints.cpp" line="184"/>
         <source>Emulation halted at breakpoint</source>
-        <translation>Emulación detuvo al punto de interrupción</translation>
+        <translation>La emulación se detuvo en el punto de interrupción</translation>
     </message>
 </context>
 <context>
@@ -867,22 +867,22 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="49"/>
         <source>Pica Surface Viewer</source>
-        <translation>Pica Visor de superficie</translation>
+        <translation>Visor de Superficie Pica </translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="54"/>
         <source>Color Buffer</source>
-        <translation>Buffer de color</translation>
+        <translation>Búfer de Color</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="55"/>
         <source>Depth Buffer</source>
-        <translation>profundidad búfer</translation>
+        <translation>Búfer de Profundidad</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="56"/>
         <source>Stencil Buffer</source>
-        <translation>stencil buffer</translation>
+        <translation>Búfer de Galería de Símbolos</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="57"/>
@@ -1002,7 +1002,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="118"/>
         <source>Save</source>
-        <translation>Guardad</translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="142"/>
@@ -1012,7 +1012,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="148"/>
         <source>Physical Address:</source>
-        <translation>Dirección física:</translation>
+        <translation>Dirección Física:</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="154"/>
@@ -1022,7 +1022,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="160"/>
         <source>Height:</source>
-        <translation>Altura:</translation>
+        <translation>Alto:</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="166"/>
@@ -1052,22 +1052,22 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="552"/>
         <source>(invalid surface address)</source>
-        <translation>(Dirección de la superficie no válido)</translation>
+        <translation>(Dirección de la superficie no válida)</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="562"/>
         <source>(unknown surface format)</source>
-        <translation>(Formato de superficie desconocida)</translation>
+        <translation>(Formato de superficie desconocido)</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="655"/>
         <source>Portable Network Graphic (*.png)</source>
-        <translation>Gráfico de red portátiles (*.png)</translation>
+        <translation>Gráfico de Red Portátil (*.png)</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="656"/>
         <source>Binary data (*.bin)</source>
-        <translation>Los datos binarios (*.bin)</translation>
+        <translation>Datos Binarios (*.bin)</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_surface.cpp" line="660"/>
@@ -1080,12 +1080,12 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_tracing.cpp" line="25"/>
         <source>CiTrace Recorder</source>
-        <translation>CiTrace registrador</translation>
+        <translation>Grabadora CiTrace</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_tracing.cpp" line="29"/>
         <source>Start Recording</source>
-        <translation>Empezar a grabar</translation>
+        <translation>Empezar Grabación</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_tracing.cpp" line="31"/>
@@ -1095,7 +1095,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_tracing.cpp" line="32"/>
         <source>Abort Recording</source>
-        <translation>abortar grabación</translation>
+        <translation>Abortar Grabación</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_tracing.cpp" line="112"/>
@@ -1105,17 +1105,17 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_tracing.cpp" line="113"/>
         <source>CiTrace File (*.ctf)</source>
-        <translation>CiTrace de archivos (*.CTF)</translation>
+        <translation>Archivo CiTrace (*.CTF)</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_tracing.cpp" line="162"/>
         <source>CiTracing still active</source>
-        <translation>CiTracing siguen activos</translation>
+        <translation>CiTracing sigue activo</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_tracing.cpp" line="163"/>
         <source>A CiTrace is still being recorded. Do you want to save it? If not, all recorded data will be discarded.</source>
-        <translation>A CiTrace todavía está siendo grabada. ¿Quieres guardarlo? Si no es así, se descartarán todos los datos grabados.</translation>
+        <translation>Un CiTrace todavía está siendo grabado. ¿Quieres guardarlo? Si no es así, se descartarán todos los datos grabados.</translation>
     </message>
 </context>
 <context>
@@ -1123,17 +1123,17 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_vertex_shader.cpp" line="45"/>
         <source>Offset</source>
-        <translation>Desfasado</translation>
+        <translation>Offset</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_vertex_shader.cpp" line="47"/>
         <source>Raw</source>
-        <translation>Bruto</translation>
+        <translation>Bruto (Raw)</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_vertex_shader.cpp" line="49"/>
         <source>Disassembly</source>
-        <translation>desmontaje</translation>
+        <translation>Desmontaje</translation>
     </message>
 </context>
 <context>
@@ -1141,27 +1141,27 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_vertex_shader.cpp" line="350"/>
         <source>Save Shader Dump</source>
-        <translation>Guardar volcado Shader</translation>
+        <translation>Guardar Volcado del Shader</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_vertex_shader.cpp" line="350"/>
         <source>Shader Binary (*.shbin)</source>
-        <translation>Shader binario (*.shbin)</translation>
+        <translation>Shader Binary (*.shbin)</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_vertex_shader.cpp" line="385"/>
         <source>(data only available at vertex shader invocation breakpoints)</source>
-        <translation>(sólo datos disponibles en los puntos de interrupción vértice shader de invocación)</translation>
+        <translation>(sólo datos disponibles en la invocación de los puntos de interrupción del vertex shader)</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_vertex_shader.cpp" line="395"/>
         <source>Dump</source>
-        <translation>Tugurio</translation>
+        <translation>Volcar</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_vertex_shader.cpp" line="414"/>
         <source>Input Data</source>
-        <translation>Datos de entrada</translation>
+        <translation>Datos de Entrada</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_vertex_shader.cpp" line="428"/>
@@ -1171,7 +1171,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_vertex_shader.cpp" line="455"/>
         <source>Cycle Index:</source>
-        <translation>Índice de ciclo:</translation>
+        <translation>Índice del Ciclo:</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_vertex_shader.cpp" line="560"/>
@@ -1233,7 +1233,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
         <location filename="../citra/src/citra/src/citra_qt/debugger/graphics/graphics_vertex_shader.cpp" line="602"/>
         <source>Dynamic Conditions: %1, %2
 </source>
-        <translation>Condiciones dinámicas:%1,%2
+        <translation>Condiciones Dinámicas:%1,%2
 </translation>
     </message>
     <message>
@@ -1299,27 +1299,27 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.ui" line="107"/>
         <source>Load File...</source>
-        <translation>Carga Archivo...</translation>
+        <translation>Cargar Archivo...</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.ui" line="112"/>
         <source>Load Symbol Map...</source>
-        <translation>Símbolo cargar mapa ...</translation>
+        <translation>Cargar Mapa de Caracteres ...</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.ui" line="117"/>
         <source>E&amp;xit</source>
-        <translation>Salida</translation>
+        <translation>Salir</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.ui" line="125"/>
         <source>&amp;Start</source>
-        <translation>&amp;Comienzo</translation>
+        <translation>&amp;Empezar</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.ui" line="133"/>
         <source>&amp;Pause</source>
-        <translation>&amp;Pausa</translation>
+        <translation>&amp;Pausar</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.ui" line="141"/>
@@ -1329,12 +1329,12 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.ui" line="146"/>
         <source>About Citra</source>
-        <translation>sobre Citra</translation>
+        <translation>Acerca de Citra</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.ui" line="154"/>
         <source>Single Window Mode</source>
-        <translation>Modo de ventana única</translation>
+        <translation>Modo de una sola Ventana</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.ui" line="159"/>
@@ -1344,27 +1344,27 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.ui" line="167"/>
         <source>Display Dock Widget Headers</source>
-        <translation>Mostrar barra de widgets encabezados</translation>
+        <translation>Mostrar Barra de Widgets Encabezados</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.ui" line="175"/>
         <source>Show Status Bar</source>
-        <translation>Mostrar barra de estado</translation>
+        <translation>Mostrar Barra de Estado</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.ui" line="180"/>
         <source>Select Game Directory...</source>
-        <translation>Seleccionar directorio del juego ...</translation>
+        <translation>Seleccionar el Directorio de Juegos ...</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.ui" line="183"/>
         <source>Selects a folder to display in the game list</source>
-        <translation>Selecciona una carpeta para mostrar en la lista de juegos</translation>
+        <translation>Selecciona una carpeta para mostrarla en la lista de juegos</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/main.ui" line="188"/>
         <source>Create Pica Surface Viewer</source>
-        <translation>Crear Pica Visor de superficie</translation>
+        <translation>Crear Visor de Superficie Pica </translation>
     </message>
 </context>
 <context>
@@ -1380,7 +1380,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.cpp" line="22"/>
         <source>Shift</source>
-        <translation>Cambio</translation>
+        <translation>Shift</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/configuration/configure_input.cpp" line="24"/>
@@ -1398,12 +1398,12 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/registers.cpp" line="15"/>
         <source>Registers</source>
-        <translation>registros</translation>
+        <translation>Registros</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/registers.cpp" line="16"/>
         <source>VFP Registers</source>
-        <translation>VFP Registros</translation>
+        <translation>Registros VFP</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/registers.cpp" line="18"/>
@@ -1418,17 +1418,17 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/registers.cpp" line="168"/>
         <source>Vector Stride</source>
-        <translation>vector de zancada</translation>
+        <translation>Vector de Zancada</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/registers.cpp" line="169"/>
         <source>Rounding Mode</source>
-        <translation>Modo de redondeo</translation>
+        <translation>Modo de Redondeo</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/registers.cpp" line="182"/>
         <source>Vector Iteration Count</source>
-        <translation>Conde vector de iteración</translation>
+        <translation>Conteo del Vector de Iteración</translation>
     </message>
 </context>
 <context>
@@ -1444,12 +1444,12 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="261"/>
         <source>locked %1 times by thread:</source>
-        <translation>bloqueada %1 veces por Tema:</translation>
+        <translation>bloqueado %1 veces por hilo:</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="264"/>
         <source>free</source>
-        <translation>gratis</translation>
+        <translation>free</translation>
     </message>
 </context>
 <context>
@@ -1457,7 +1457,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="303"/>
         <source>holding mutexes</source>
-        <translation>la celebración de los mutex</translation>
+        <translation>sosteniendo los mutex</translation>
     </message>
 </context>
 <context>
@@ -1470,7 +1470,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="128"/>
         <source>waiting for one of the following objects</source>
-        <translation>la espera de uno de los siguientes objetos</translation>
+        <translation>esperando a que uno de los siguientes objetos</translation>
     </message>
 </context>
 <context>
@@ -1496,17 +1496,17 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="148"/>
         <source>ready</source>
-        <translation>Listo</translation>
+        <translation>listo</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="151"/>
         <source>waiting for address 0x%1</source>
-        <translation>la espera de dirección 0x%1</translation>
+        <translation>esperando por la dirección 0x%1</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="154"/>
         <source>sleeping</source>
-        <translation>¿Dormido?</translation>
+        <translation>durmiendo</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="158"/>
@@ -1516,12 +1516,12 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="161"/>
         <source>dormant</source>
-        <translation>Inactividad</translation>
+        <translation>inactividad</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="164"/>
         <source>dead</source>
-        <translation>muerte</translation>
+        <translation>muerto</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="167"/>
@@ -1531,7 +1531,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="204"/>
         <source>default</source>
-        <translation>defecto</translation>
+        <translation>por defecto</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="207"/>
@@ -1561,7 +1561,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="221"/>
         <source>thread id = %1</source>
-        <translation>Identificación del hilo =%1</translation>
+        <translation>Id del hilo =%1</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="222"/>
@@ -1571,12 +1571,12 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="226"/>
         <source>last running ticks = %1</source>
-        <translation>última funcionamiento garrapatas =%1</translation>
+        <translation>última ejecución de ticks =%1</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="229"/>
         <source>not holding mutex</source>
-        <translation>No sostiene mutex</translation>
+        <translation>mutex no se esta sosteniendo</translation>
     </message>
 </context>
 <context>
@@ -1584,7 +1584,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="317"/>
         <source>waited by thread</source>
-        <translation>esperado por hilo</translation>
+        <translation>esperado por el hilo</translation>
     </message>
 </context>
 <context>
@@ -1602,7 +1602,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="294"/>
         <source>interval delay = %1</source>
-        <translation>retardo de intervalo =%1</translation>
+        <translation>intervalo de retraso =%1</translation>
     </message>
 </context>
 <context>
@@ -1620,7 +1620,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="113"/>
         <source>one shot</source>
-        <translation>un trago</translation>
+        <translation>one shot</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="115"/>
@@ -1638,7 +1638,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/debugger/wait_tree.cpp" line="388"/>
         <source>Wait Tree</source>
-        <translation>espere Árbol</translation>
+        <translation>Arból de Espera</translation>
     </message>
 </context>
 <context>
@@ -1646,7 +1646,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/hotkeys.ui" line="14"/>
         <source>Hotkey Settings</source>
-        <translation>Configuración de teclas de acceso rápido</translation>
+        <translation>Configuración de las teclas de acceso rápido</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/hotkeys.ui" line="27"/>
@@ -1656,7 +1656,7 @@ Please ensure that your GPU supports OpenGL 3.3 and that you have the latest gra
     <message>
         <location filename="../citra/src/citra/src/citra_qt/hotkeys.ui" line="32"/>
         <source>Hotkey</source>
-        <translation>Tecla de acceso directo</translation>
+        <translation>Tecla de acceso rápido</translation>
     </message>
     <message>
         <location filename="../citra/src/citra/src/citra_qt/hotkeys.ui" line="37"/>
